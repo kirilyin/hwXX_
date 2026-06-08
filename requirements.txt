@@ -6,3 +6,8 @@ scikit-learn
 jupyter
 plotly
 category_encoders
+catboost
+xgboost
+lightgbm
+shap
+umap-learn
